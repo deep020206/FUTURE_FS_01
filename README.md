@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Contact Form Setup
 
 This README explains how to set up the contact form functionality for the portfolio.
@@ -115,3 +116,6 @@ deep-portfolio/
 └── src/
     └── App.jsx       # Main frontend component with contact form
 ```
+=======
+# FUTURE_FS_01
+>>>>>>> a03fb12c7f975ffb9cb789c1376ce2c923823cf9
